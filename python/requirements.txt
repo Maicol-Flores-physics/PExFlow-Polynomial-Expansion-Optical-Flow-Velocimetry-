@@ -1,0 +1,6 @@
+numpy>=1.20
+scipy>=1.7
+# optional ------------------------------------------------------------
+opencv-python-headless>=4.5   # ~1.5x faster filtering; video input in the CLI
+matplotlib>=3.5               # examples and figures
+imageio>=2.20                 # image-sequence input in the CLI

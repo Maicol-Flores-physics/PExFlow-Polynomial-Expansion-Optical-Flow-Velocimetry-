@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.npz
+pexflow_result.mat
+frames/
+*.asv
+.DS_Store
+Thumbs.db
+docs/media/*.npy

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use PExFlow, please cite the article below."
+title: "PExFlow: Polynomial Expansion Optical Flow Velocimetry"
+type: software
+version: "1.1.0"
+repository-code: "https://github.com/Maicol-Flores-physics/PExFlow-Polynomial-Expansion-Optical-Flow-Velocimetry-"
+keywords:
+  - particle image velocimetry
+  - optical flow
+  - polynomial expansion
+  - fluid mechanics
+  - turbulence
+authors:
+  - family-names: Flores
+    given-names: Maicol
+    affiliation: "Instituto de Física, Facultad de Ciencias, Universidad de la República, Uruguay"
+preferred-citation:
+  type: article
+  title: "Optical flow method based on polynomial expansion for particle-laden fluid velocimetry"
+  journal: "Experiments in Fluids"
+  volume: 67
+  start: 72
+  year: 2026
+  doi: "10.1007/s00348-026-04222-1"
+  authors:
+    - family-names: Flores
+      given-names: M.
+    - family-names: Rinderknecht
+      given-names: F.
+    - family-names: Gallot
+      given-names: T.
+    - family-names: Sarasua
+      given-names: L. G.
+    - family-names: Abraham
+      given-names: Y.
+    - family-names: Barrere
+      given-names: N.
+    - family-names: Freire Caporale
+      given-names: D.

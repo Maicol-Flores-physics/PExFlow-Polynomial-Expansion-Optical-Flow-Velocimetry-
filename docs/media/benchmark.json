@@ -1,0 +1,11 @@
+{
+ "size": 512,
+ "pairs": 10,
+ "cpu": 8,
+ "seconds_per_pair": {
+  "Python v1.0 core": 0.7932896899990738,
+  "Python v1.1 (NumPy/SciPy)": 0.47980072000063956,
+  "Python v1.1 + OpenCV": 0.3281526000006124,
+  "MATLAB (R2018a+)": 0.391
+ }
+}
